@@ -1,0 +1,12 @@
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020001", "Maria das Graças", true, "8.7", "Rua da Paz, Guararipe", "556786530");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020002", "João Santos da Silva", true, "8.2", "Rua São Silvestre, Rualadicá", "5638546855");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020003", "Nayara Silveira dos Santos", true, "9.0", "Rua Muitonome, Vaidemorar", "9874536214");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020004", "Lucas Sobrenome", false, "0.0", "Rua Semnome, Bairrotb", "6523541477");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020005", "Bruna Madeira", true, "7.5", "Rua denovo, Bairrotb", "5526844269");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020006", "Miguel Soares", true, "8.0", "Rua Tranquilamente, Vaidemorar", "8574266858");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020007", "Victor Moisés", true, "5.5", "Rua denovo, Bairrotb", "8977741230");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020008", "Paula dos Santos", true, "6.8", "Rua das Graças, Guararipe", "8541125639");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020009", "Zinedine Zidane", false, "0.0", "Rua de Madrid, Madrid", "1452465699");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020010", "Alex Morgan", true, "8.9", "Rua das Américas, Americanas", "3251478882");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020011", "Gabriel Jesus", true, "7.7", "Rua do fut" "Jardim Peri", "4566534485");
+insert into tb_alunes(ra, nome, ativo, media, endereco, rg) values ("2020012", "Julia Souza", true, "8.8", "Rua Santos Soares" "Jardim Cruz", "6356987752");

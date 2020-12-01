@@ -1,0 +1,1 @@
+select *from tb_animais where nome like "%b%"

@@ -1,0 +1,1 @@
+select *from tb_alunes where media>7

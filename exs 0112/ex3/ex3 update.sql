@@ -1,0 +1,1 @@
+update tb_funcionarios set ativo=false where id=1

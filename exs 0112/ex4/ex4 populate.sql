@@ -1,0 +1,15 @@
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Placa de vídeo", "GTX 1650Super AsusTUF", true, "1200.00");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Processador", "AMD Ryzen 3 3300x", false, "940.00");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Processador", "AMD Ryzen 5 3600x", true, "1500.00");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Placa de vídeo", "AMD Radeon 5600XT", true, "1850.00");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Air Cooler", "Coolermaster H412R", true, "159.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Gabinete", "Coolermaster Q300L TUF", true, "329.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Memória RAM", "Crucial Ballistix 3000Mhz", true, "519.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Fonte", "Corsair CV550 80Plus", true, "409.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Placa-mãe", "Gigabyte AB350M DS3H V2", true, "459.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Processador", "Intel I5 9400F", true, "959.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Placa de vídeo", "GTX 2060 Super", true, "2760.00");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Pasta térmica", "Coolermaster Mastergel Pro", true, "74.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("Pasta térmica", "Coolermaster Mastergel Maker", true, "84.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("SSD", "SSD SATA Kingston 240GB", true, "199.90");
+insert into tb_produtos(nome, modelo, ativo, preco) values ("SSD", "SSD nvme M.2 Gigabyte 128GB", true, "219.90");

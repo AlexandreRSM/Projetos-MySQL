@@ -1,0 +1,1 @@
+update tb_produtos set ativo=true where id=2

@@ -1,0 +1,1 @@
+select *from tb_animais where peso>20

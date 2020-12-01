@@ -1,0 +1,15 @@
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Lucas Silveira", true, "4000", "devpleno");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Ana Ribeiro", true, "7200", "Scrum Master");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Juliana Macedo", true, "1800", "devjunior");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Carolina Villalobos", false, "7200", "Scrum Master");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Norberto Junqueira", true, "8000", "Especialista");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Patrick Souza", true, "1800", "devjunior");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Fernanda Lopes", true, "1800", "devjunior");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Bruno Camargo", true, "1800", "devjunior");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Laís Nogueira", true, "6500", "Chefe Administrativa");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Kleverson Silveira", true, "4000", "devpleno");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Amanda Pires", false, "4000", "devpleno");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Jorge Peres", true, "6500", "Chefe Administrativo");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Monica Santos", true, "4000", "devpleno");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Lucilene Barros", true, "8000", "Especialista");
+insert into tb_funcionarios(nome, ativo, salário, cargo) values ("Roberto Povos", true, "1800", "devjunior");

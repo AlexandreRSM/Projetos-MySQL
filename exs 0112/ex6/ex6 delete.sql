@@ -1,0 +1,1 @@
+delete from tb_animais where id=5

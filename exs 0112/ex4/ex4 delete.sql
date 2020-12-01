@@ -1,0 +1,1 @@
+delete from tb_produtos where id=12

@@ -1,0 +1,1 @@
+delete from tb_alunes where ra=2020002

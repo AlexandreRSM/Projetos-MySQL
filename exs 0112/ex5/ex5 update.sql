@@ -1,0 +1,1 @@
+update tb_alunes set ativo=false where ra=2020006
